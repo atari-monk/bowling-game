@@ -5,6 +5,7 @@ import {
     Audio,
     GameLoop
 } from "atari-monk-atom-engine";
+//import { createGame, updateGame, renderGame } from "./../snapshots/engine-smoke"
 import { createGame, updateGame, renderGame } from "./game";
 
 const renderer = new Renderer("canvas");

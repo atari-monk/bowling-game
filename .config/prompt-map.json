@@ -1,0 +1,32 @@
+{
+    "analysis": {
+        "description": [
+            "/home/atari-monk/atari-monk/project/bowling-game/docs/en/_temp.md",
+            "/home/atari-monk/atari-monk/project/bowling-game/docs/en/game-object.md"
+        ]
+    },
+    "implementation": {
+        "rules": [
+            "/home/atari-monk/atari-monk/project/prompts/rules/code.md",
+            "/home/atari-monk/atari-monk/project/prompts/rules/python-code.md"
+        ],
+        "feature": [
+            "/home/atari-monk/atari-monk/project/bowling-game/docs/en/bowling-ball.md"
+        ],
+        "codebase": [
+            "/home/atari-monk/atari-monk/project/bowling-game/src/shared/game-object.ts"
+        ]
+    },
+    "requirements-implementation": {
+        "rules": [
+            "/home/atari-monk/atari-monk/project/prompts/rules/code.md",
+            "/home/atari-monk/atari-monk/project/prompts/rules/python-code.md"
+        ],
+        "feature": [
+            "/home/atari-monk/atari-monk/project/bowling-game/docs/en/bowling-ball.md"
+        ],
+        "codebase": [
+            "/home/atari-monk/atari-monk/project/bowling-game/src/shared/game-object.ts"
+        ]
+    }
+}

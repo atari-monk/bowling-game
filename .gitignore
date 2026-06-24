@@ -1,2 +1,4 @@
 node_modules
 dist
+.config/_git-changes-context.md
+docs/_temp.md

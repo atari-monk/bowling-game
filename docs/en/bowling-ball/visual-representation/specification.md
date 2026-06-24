@@ -1,0 +1,4 @@
+- Glowing yelow orb, flashy, cool
+- Given [GameObject API](./../../game-object.md), what is a least compute taxing way of doing it ?
+- Quality and performance has value with same weight
+- Give me just one option with best quality/performance balance

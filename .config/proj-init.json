@@ -1,0 +1,14 @@
+{
+    "basePath": "/home/atari-monk/atari-monk/project/bowling-game",
+    "folders": [
+        "docs",
+        "docs/en",
+        "docs/pl"
+    ],
+    "files": [
+        "README.md",
+        "docs/index.md",
+        "docs/_config.yml",
+        ".gitignore"
+    ]
+}
