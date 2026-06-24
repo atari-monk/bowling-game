@@ -1,0 +1,22 @@
+{
+    "question": {
+        "question": [
+            "/home/atari-monk/atari-monk/project/bowling-game/docs/temp.md"
+        ],
+        "context": [
+            ""
+        ]
+    },
+    "implementation": {
+        "rules": [
+            "/home/atari-monk/atari-monk/project/prompts/rules/code.md"
+        ],
+        "requirements": [
+            "/home/atari-monk/atari-monk/project/bowling-game/docs/en/bowling-ball/visual-representation.md",
+            "/home/atari-monk/atari-monk/project/bowling-game/docs/temp.md"
+        ],
+        "codebase": [
+            "/home/atari-monk/atari-monk/project/bowling-game/src/shared/bowling-ball.ts"
+        ]
+    }
+}
