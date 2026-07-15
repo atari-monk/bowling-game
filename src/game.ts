@@ -1,10 +1,6 @@
 import type { Renderer, Input, Audio } from "atari-monk-atom-engine";
-import {
-    createBowlingBall,
-    renderBowlingBall,
-    updateBowlingBall,
-    type BowlingBallState
-} from "./shared/bowling-ball";
+import type { BowlingBallState } from "./shared/bowling-ball/struct";
+import { createBowlingBall, renderBowlingBall, updateBowlingBall } from "./shared/bowling-ball/bowling-ball";
 
 export type GameState = {
     renderer: Renderer;

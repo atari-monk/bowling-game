@@ -1,28 +1,28 @@
 GameObject API
 
-- Instead of GameObject use object name 
+- GameObject Y
 
 ```ts
-export type GameObjectState = {
+export type YState = {
     //props
 };
 
-export function createGameObject(
+export function createY(
     //args
-): GameObjectState {
+): YState {
     return {
         //initialization
     };
 }
 
-export function updateGameObject(
-    obj: GameObjectState,
+export function updateY(
+    obj: YState,
     dt: number
 ): void {
 }
 
-export function renderGameObject(
-    obj: GameObjectState,
+export function renderY(
+    obj: YState,
     ctx: CanvasRenderingContext2D
 ): void {
 }
